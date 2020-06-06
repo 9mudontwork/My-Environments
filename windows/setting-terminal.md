@@ -21,8 +21,7 @@ Invoke-Expression (&starship init powershell)
 ### Settings Profiles
 
 ```javascript
-"hidden": false,
-"colorScheme": "One Half Dark",
+"colorScheme": "My Color",
 "cursorColor": "#FFFFFF",
 "cursorShape": "bar",
 "fontFace": "Fira Code",
@@ -32,6 +31,35 @@ Invoke-Expression (&starship init powershell)
 "snapOnInput": true,
 "useAcrylic": true,
 "startingDirectory": "."
+
+"schemes": [
+    {
+        "name" : "My Color",
+    
+        "cursorColor": "#C5C8C6",
+        "selectionBackground": "#C5C8C6",
+    
+        "background" : "#1D1F21",
+        "foreground" : "#ffffff",
+    
+        "black" : "#1D1F21",
+        "blue" : "#399ced",
+        "cyan" : "#3971ED",
+        "green" : "#198844",
+        "purple" : "#A36AC7",
+        "red" : "#CC342B",
+        "white" : "#C5C8C6",
+        "yellow" : "#FBA922",
+        "brightBlack" : "#969896",
+        "brightBlue" : "#3971ED",
+        "brightCyan" : "#3971ED",
+        "brightGreen" : "#198844",
+        "brightPurple" : "#A36AC7",
+        "brightRed" : "#CC342B",
+        "brightWhite" : "#FFFFFF",
+        "brightYellow" : "#FBA922"
+    }
+],
 ```
 
 ### Right Click Context menu

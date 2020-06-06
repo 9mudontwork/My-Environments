@@ -5,6 +5,7 @@
 ## Windows
 
 * [Programs](windows/programs.md)
+* [Fonts](windows/fonts.md)
 * [Setup For Development](windows/setup-for-development.md)
 * [Setting Terminal](windows/setting-terminal.md)
 

@@ -11,6 +11,11 @@
 ```javascript
 if (!(Test-Path -Path $PROFILE ))
 { New-Item -Type File -Path $PROFILE -Force }
+
+ไฟล์จะอยู่ที่ C:\Users\username\Documents\WindowsPowerShell
+
+ใส่ 
+Invoke-Expression (&starship init powershell)
 ```
 
 ### Settings Profiles

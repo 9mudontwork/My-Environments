@@ -1,5 +1,9 @@
 # Setup For Development
 
+## Git
+
+{% embed url="https://git-scm.com/" %}
+
 ## SourceTree
 
 {% embed url="https://www.sourcetreeapp.com/" %}

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [บันทึก Environments](README.md)
 
 ## Visual Studio Code
 

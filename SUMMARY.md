@@ -7,7 +7,7 @@
 * [Programs](windows/programs.md)
 * [Fonts](windows/fonts.md)
 * [Setup For Development](windows/setup-for-development.md)
-* [Setting Terminal](windows/setting-terminal.md)
+* [Setup Terminal](windows/setting-terminal.md)
 
 ## Visual Studio Code
 

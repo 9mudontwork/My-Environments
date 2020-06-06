@@ -1,4 +1,4 @@
-# Setting Terminal
+# Setup Terminal
 
 ## Starship
 

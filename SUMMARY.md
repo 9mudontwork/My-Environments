@@ -11,5 +11,11 @@
 
 ## Visual Studio Code
 
+---
+
 * [Setting Sync](setting-sync.md)
+
+## PHP
+
+* [VS Code ทำ Debug ด้วย Xdebug](php/vs-code-debug-xdebug.md)
 

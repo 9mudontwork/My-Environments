@@ -24,3 +24,7 @@ xdebug.remote_enable = 1
 xdebug.remote_autostart = 1 
 ```
 
+## หรืออีกวิธี
+
+สร้างไฟล์แสดง phpinfo\(\); แล้ว copy html code ไป analyze ที่เว็บ [https://xdebug.org/wizard](https://xdebug.org/wizard) แล้วทำตามขั้นตอน
+

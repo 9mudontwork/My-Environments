@@ -97,7 +97,7 @@ WTerminal
 HKEY_CLASSES_ROOT\Directory\Background\shell\wt
 ```
 
-คลิกขวา new -&gt; string value
+คลิกขวา new -&gt; string value \(ตั้งชื่อว่า icon\)
 
 ```javascript
 %USERPROFILE%/AppData/Local/WTerminal/terminal.ico

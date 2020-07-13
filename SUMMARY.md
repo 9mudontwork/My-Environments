@@ -17,5 +17,6 @@
 
 ## PHP
 
+* [Speed up Composer](php/speed-up-composer.md)
 * [VS Code ทำ Debug ด้วย Xdebug](php/vs-code-debug-xdebug.md)
 

@@ -74,7 +74,7 @@ Windows Registry Editor Version 5.00
  @="Open Windows Terminal here"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\wt\command]
- @="C:\\Users\\<UserName>\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
+ @="C:\\Users\\i3acksp4ce\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
 ```
 
 เปิด Run

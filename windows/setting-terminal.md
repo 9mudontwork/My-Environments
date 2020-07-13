@@ -9,8 +9,7 @@
 ถ้ายังไม่มี Profiles ให้สร้าง
 
 ```javascript
-if (!(Test-Path -Path $PROFILE ))
-{ New-Item -Type File -Path $PROFILE -Force }
+if (!(Test-Path -Path $PROFILE )){ New-Item -Type File -Path $PROFILE -Force }
 
 ไฟล์จะอยู่ที่ C:\Users\i3acksp4ce\Documents\WindowsPowerShell
 

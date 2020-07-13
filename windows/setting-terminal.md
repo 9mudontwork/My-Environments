@@ -2,6 +2,8 @@
 
 ## Starship
 
+ติดตั้งตาม document
+
 {% embed url="https://starship.rs/" %}
 
 ## Windows Terminal

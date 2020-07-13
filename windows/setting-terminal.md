@@ -12,7 +12,7 @@
 if (!(Test-Path -Path $PROFILE ))
 { New-Item -Type File -Path $PROFILE -Force }
 
-ไฟล์จะอยู่ที่ C:\Users\username\Documents\WindowsPowerShell
+ไฟล์จะอยู่ที่ C:\Users\i3acksp4ce\Documents\WindowsPowerShell
 
 ใส่ 
 Invoke-Expression (&starship init powershell)

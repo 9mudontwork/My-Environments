@@ -28,3 +28,11 @@ xdebug.remote_autostart = 1
 
 สร้างไฟล์แสดง phpinfo\(\); แล้ว copy html code ไป analyze ที่เว็บ [https://xdebug.org/wizard](https://xdebug.org/wizard) แล้วทำตามขั้นตอน
 
+## ใช้ กับ postman
+
+เพิ่ม params 
+
+```text
+?XDEBUG_SESSION_START=VSCODE
+```
+

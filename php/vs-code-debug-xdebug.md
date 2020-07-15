@@ -17,9 +17,9 @@ your-path\php\ext
 เปิดไฟล์ php.ini แล้วเพิ่ม config
 
 ```text
-zend_extension = "your-path\php\ext\php_xdebug.dll"
-
 [XDebug]
+zend_extension = "C:\xampp\php\ext\php_xdebug-2.9.6-7.2-vc15-x86_64.dll"
+xdebug.idekey=VSCODE
 xdebug.remote_enable = 1
 xdebug.remote_autostart = 1 
 ```

@@ -73,9 +73,6 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\wt]
  @="Open Windows Terminal here"
- 
-[HKEY_CLASSES_ROOT\Directory\Directory\shell\wt]
- @="Open Windows Terminal here"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\wt\command]
  @="C:\\Users\\i3acksp4ce\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"

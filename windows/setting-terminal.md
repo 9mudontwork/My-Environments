@@ -78,6 +78,8 @@ Windows Registry Editor Version 5.00
  @="C:\\Users\\i3acksp4ce\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
 ```
 
+{% file src="../.gitbook/assets/register-wt.txt" caption="register window terminal" %}
+
 เปิด Run
 
 ```javascript

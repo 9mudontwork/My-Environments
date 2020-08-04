@@ -1,3 +1,9 @@
+---
+description: >-
+  ติดตั้ง Laragon อย่างเดียวมีครบทุกอย่าง อย่าลืม add environments path คลิกขวา
+  tools > path
+---
+
 # Quick Add Config
 
 ```text

@@ -22,16 +22,17 @@ Invoke-Expression (&starship init powershell)
 ### Settings Profiles
 
 ```javascript
-"colorScheme": "My Color",
-"cursorColor": "#FFFFFF",
-"cursorShape": "bar",
-"fontFace": "Fira Code",
-"acrylicOpacity": 0.7,
-"closeOnExit": true,
-"fontSize": 14,
-"snapOnInput": true,
-"useAcrylic": true,
-"startingDirectory": "."
+"profiles": {
+		"defaults": {
+			// Put settings here that you want to apply to all profiles.
+			"fontFace": "FiraCode NF",
+			"acrylicOpacity": 0.9,
+			"closeOnExit": true,
+			"fontSize": 14,
+			"snapOnInput": true,
+			"useAcrylic": true,
+			"startingDirectory": "."
+		},
 
 "schemes": [
     {

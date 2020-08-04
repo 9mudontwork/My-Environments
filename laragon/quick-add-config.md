@@ -13,8 +13,8 @@ apache 2.4.43 x64 VC15=https://home.apache.org/~steffenal/VC15/binaries/httpd-2.
 ------------------------------------------------------
 
 # phpMyAdmin
-phpmyadmin 4.9.5(php5.5-7.4)=https://files.phpmyadmin.net/phpMyAdmin/4.9.5/phpMyAdmin-4.9.5-english.zip
-phpmyadmin 5.0.2(php7.1+)=https://files.phpmyadmin.net/phpMyAdmin/5.0.2/phpMyAdmin-5.0.2-english.zip
+phpmyadmin 4.9.5 php5.5-7.4=https://files.phpmyadmin.net/phpMyAdmin/4.9.5/phpMyAdmin-4.9.5-english.zip
+phpmyadmin 5.0.2 php7.1+=https://files.phpmyadmin.net/phpMyAdmin/5.0.2/phpMyAdmin-5.0.2-english.zip
 ------------------------------------------------------
 
 # MariaDB 

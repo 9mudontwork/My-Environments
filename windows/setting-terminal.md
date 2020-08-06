@@ -31,37 +31,40 @@ Invoke-Expression (&starship init powershell)
 			"fontSize": 14,
 			"snapOnInput": true,
 			"useAcrylic": true,
-			"startingDirectory": "."
+			"startingDirectory": ".",
+			"colorScheme": "MyColor"
 		},
 
-"schemes": [
-    {
-        "name" : "My Color",
-    
-        "cursorColor": "#C5C8C6",
-        "selectionBackground": "#C5C8C6",
-    
-        "background" : "#1D1F21",
-        "foreground" : "#ffffff",
-    
-        "black" : "#1D1F21",
-        "blue" : "#399ced",
-        "cyan" : "#3971ED",
-        "green" : "#198844",
-        "purple" : "#A36AC7",
-        "red" : "#CC342B",
-        "white" : "#C5C8C6",
-        "yellow" : "#FBA922",
-        "brightBlack" : "#969896",
-        "brightBlue" : "#3971ED",
-        "brightCyan" : "#3971ED",
-        "brightGreen" : "#198844",
-        "brightPurple" : "#A36AC7",
-        "brightRed" : "#CC342B",
-        "brightWhite" : "#FFFFFF",
-        "brightYellow" : "#FBA922"
-    }
-],
+// Add custom color schemes to this array.
+	// To learn more about color schemes, visit https://aka.ms/terminal-color-schemes
+	"schemes": [
+		{
+			"name": "MyColor",
+
+			"cursorColor": "#C5C8C6",
+			"selectionBackground": "#C5C8C6",
+
+			"background": "#1D1F21",
+			"foreground": "#ffffff",
+
+			"black": "#1D1F21",
+			"blue": "#399ced",
+			"cyan": "#3971ED",
+			"green": "#198844",
+			"purple": "#A36AC7",
+			"red": "#CC342B",
+			"white": "#C5C8C6",
+			"yellow": "#FBA922",
+			"brightBlack": "#969896",
+			"brightBlue": "#3971ED",
+			"brightCyan": "#3971ED",
+			"brightGreen": "#198844",
+			"brightPurple": "#A36AC7",
+			"brightRed": "#CC342B",
+			"brightWhite": "#FFFFFF",
+			"brightYellow": "#FBA922"
+		}
+	],
 ```
 
 ### Right Click Context menu

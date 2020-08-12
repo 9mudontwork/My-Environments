@@ -6,6 +6,16 @@ description: >-
 
 # Quick Add Config
 
+## php
+
+{% embed url="https://windows.php.net/downloads/releases/" %}
+
+## Apache
+
+{% embed url="https://www.apachelounge.com/download/" %}
+
+
+
 ```text
 # PHP
 php 5.6.0 x64 VC11=https://windows.php.net/downloads/releases/archives/php-5.6.0-Win32-VC11-x64.zip

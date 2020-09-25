@@ -22,6 +22,9 @@ Invoke-Expression (&starship init powershell)
 ### Settings Profiles
 
 ```javascript
+"initialCols": 70,
+"initialRows": 20,
+
 "profiles": {
 		"defaults": {
 			// Put settings here that you want to apply to all profiles.
@@ -36,7 +39,7 @@ Invoke-Expression (&starship init powershell)
 		},
 
 // Add custom color schemes to this array.
-	// To learn more about color schemes, visit https://aka.ms/terminal-color-schemes
+// To learn more about color schemes, visit https://aka.ms/terminal-color-schemes
 	"schemes": [
 		{
 			"name": "MyColor",

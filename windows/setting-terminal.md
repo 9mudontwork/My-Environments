@@ -42,30 +42,30 @@ Invoke-Expression (&starship init powershell)
 // To learn more about color schemes, visit https://aka.ms/terminal-color-schemes
 	"schemes": [
 		{
-			"name": "MyColor",
+			"name": "My Color",
 
 			"cursorColor": "#C5C8C6",
 			"selectionBackground": "#C5C8C6",
 
-			"background": "#1D1F21",
-			"foreground": "#ffffff",
+			"background": "#0D1117",
+			"foreground": "#F0F6FC",
 
 			"black": "#1D1F21",
 			"blue": "#399ced",
-			"cyan": "#3971ED",
-			"green": "#198844",
-			"purple": "#A36AC7",
-			"red": "#CC342B",
+			"cyan": "#388BFD",
+			"green": "#3FB950",
+			"purple": "#6E40C9",
+			"red": "#DA3633",
 			"white": "#C5C8C6",
-			"yellow": "#FBA922",
+			"yellow": "#E3B341",
 			"brightBlack": "#969896",
-			"brightBlue": "#3971ED",
-			"brightCyan": "#3971ED",
-			"brightGreen": "#198844",
-			"brightPurple": "#A36AC7",
-			"brightRed": "#CC342B",
+			"brightBlue": "#388BFD",
+			"brightCyan": "#388BFD",
+			"brightGreen": "#3FB950",
+			"brightPurple": "#6E40C9",
+			"brightRed": "#DA3633",
 			"brightWhite": "#FFFFFF",
-			"brightYellow": "#FBA922"
+			"brightYellow": "#E3B341"
 		}
 	],
 ```

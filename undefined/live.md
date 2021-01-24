@@ -4,3 +4,11 @@
 
 
 
+ย่อขนาดรูปภาพ
+
+{% embed url="https://github.com/imagemin/imagemin-pngquant\#readme" %}
+
+{% embed url="https://github.com/imagemin/imagemin" %}
+
+
+

@@ -28,5 +28,6 @@
 
 ---
 
-* [จดบันทึกชั่วคราว](undefined.md)
+* [จดบันทึกชั่วคราว](undefined/README.md)
+  * [เก็บตกจาก live](undefined/live.md)
 

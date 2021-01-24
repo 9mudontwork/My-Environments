@@ -14,5 +14,9 @@
 
 {% embed url="https://github.com/woltapp/blurhash" %}
 
+31.00 ตัวอย่างเขียน html ใน js หรือ jsx อีกแบบนึงไม่ต้องใช้ babel
+
+{% embed url="https://github.com/developit/htm" %}
+
 
 

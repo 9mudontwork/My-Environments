@@ -4,7 +4,7 @@
 
 
 
-ย่อขนาดรูปภาพ
+20.30 ย่อขนาดรูปภาพ
 
 {% embed url="https://github.com/imagemin/imagemin-pngquant\#readme" %}
 

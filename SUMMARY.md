@@ -14,6 +14,7 @@
 ---
 
 * [Setting Sync](setting-sync.md)
+* [custom css](custom-css.md)
 
 ## PHP
 

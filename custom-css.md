@@ -17,7 +17,6 @@
 }
 
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab{
-    height: 30px;
     flex-grow: 1;
     border-bottom: 1px solid rgba(128,128,128,0.5);
 }

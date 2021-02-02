@@ -38,22 +38,5 @@
 	border-bottom: 1px solid rgba(128, 128, 128, 0.5);
 }
 
-/* จัด action bar */
-.monaco-workbench
-	.part.editor
-	> .content
-	.editor-group-container
-	> .title
-	.editor-actions
-	> .monaco-toolbar
-	> .monaco-action-bar {
-	overflow-y: scroll;
-	max-height: 100px;
-}
-
-.monaco-toolbar > .monaco-action-bar > ul.actions-container {
-	flex-direction: column;
-}
-
 ```
 

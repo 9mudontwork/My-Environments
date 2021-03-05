@@ -8,5 +8,9 @@
 
 {% embed url="https://docs.microsoft.com/th-th/windows/wsl/install-win10\#step-4---download-the-linux-kernel-update-package" %}
 
+ติดตั้ง docker hub แหล่งรวม container image
+
+{% embed url="https://hub.docker.com/" %}
+
 
 

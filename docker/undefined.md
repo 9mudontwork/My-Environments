@@ -15,5 +15,8 @@ docker pull httpd:alpine
 docker pull mariadb:latest
 docker pull node:lts-alpine
 docker pull phpmyadmin:latest
+
+docker pull phpmyadmin:fpm-alpine
+docker pull php:7.3-fpm-alpine
 ```
 

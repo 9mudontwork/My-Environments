@@ -14,5 +14,6 @@ docker pull nginx:stable-apine
 docker pull httpd:alpine
 docker pull mariadb:latest
 docker pull node:lts-alpine
+docker pull phpmyadmin:latest
 ```
 

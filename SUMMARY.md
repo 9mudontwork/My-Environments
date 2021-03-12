@@ -7,7 +7,8 @@
 * [Programs](windows/programs.md)
 * [Fonts](windows/fonts.md)
 * [Setup For Development](windows/setup-for-development.md)
-* [Setup Terminal](windows/setting-terminal.md)
+* [Setup Terminal](windows/setting-terminal/README.md)
+  * [Hyper](windows/setting-terminal/hyper.md)
 
 ## Visual Studio Code
 

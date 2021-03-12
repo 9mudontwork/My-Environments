@@ -84,7 +84,7 @@ Windows Registry Editor Version 5.00
  @="C:\\Users\\i3acksp4ce\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
 ```
 
-{% file src="../.gitbook/assets/register-wt.txt" caption="register window terminal" %}
+{% file src="../../.gitbook/assets/register-wt.txt" caption="register window terminal" %}
 
 เปิด Run
 
@@ -100,7 +100,7 @@ WTerminal
 
 เอา Icon ไปใส่
 
-{% file src="../.gitbook/assets/terminal.ico" caption="Windows Terminal Icon" %}
+{% file src="../../.gitbook/assets/terminal.ico" caption="Windows Terminal Icon" %}
 
 เปิด Registry Editor แล้วไปที่
 

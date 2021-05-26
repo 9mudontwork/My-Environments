@@ -34,5 +34,7 @@
 
 {% embed url="https://github.com/mickgeek/yii2-advanced-one-domain-config/blob/master/vhosts/apache.conf" %}
 
+{% embed url="https://httpd.apache.org/docs/2.4/rewrite/flags.html\#flag\_l" %}
+
 
 

@@ -32,3 +32,7 @@
 # If you want to use SSL, enable it by going to Menu > Apache > SSL > Enabled
 ```
 
+{% embed url="https://github.com/mickgeek/yii2-advanced-one-domain-config/blob/master/vhosts/apache.conf" %}
+
+
+

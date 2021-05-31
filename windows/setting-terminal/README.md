@@ -68,6 +68,33 @@ Invoke-Expression (&starship init powershell)
 			"brightYellow": "#E3B341"
 		}
 	],
+	
+	
+	
+	// custom color
+	{
+            "background": "#0D1117",
+            "black": "#1D1F21",
+            "blue": "#399CED",
+            "brightBlack": "#969896",
+            "brightBlue": "#388BFD",
+            "brightCyan": "#388BFD",
+            "brightGreen": "#3FB950",
+            "brightPurple": "#6E40C9",
+            "brightRed": "#DA3633",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#E3B341",
+            "cursorColor": "#C5C8C6",
+            "cyan": "#388BFD",
+            "foreground": "#F0F6FC",
+            "green": "#3FB950",
+            "name": "MyColor",
+            "purple": "#6E40C9",
+            "red": "#DA3633",
+            "selectionBackground": "#C5C8C6",
+            "white": "#C5C8C6",
+            "yellow": "#E3B341"
+        },
 ```
 
 ### Right Click Context menu

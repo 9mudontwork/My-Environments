@@ -95,6 +95,9 @@ Invoke-Expression (&starship init powershell)
             "white": "#C5C8C6",
             "yellow": "#E3B341"
         },
+        
+//ให้อยู่ตรงกลางตอนเปิด
+"centerOnLaunch": true,
 ```
 
 ### Right Click Context menu

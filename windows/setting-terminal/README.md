@@ -22,8 +22,8 @@ Invoke-Expression (&starship init powershell)
 ### Settings Profiles
 
 ```javascript
-"initialCols": 70,
-"initialRows": 20,
+"initialCols": 90,
+"initialRows": 30,
 
 "profiles": {
 		"defaults": {

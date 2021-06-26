@@ -18,6 +18,7 @@
 * [custom css](custom-css.md)
 * [setting ตัวช่วย format](setting-format.md)
 * [setting เก่า](setting.md)
+* [แก้ปัญหาการ render สี srgb ของ vscode](render-srgb-vscode.md)
 
 ## PHP
 

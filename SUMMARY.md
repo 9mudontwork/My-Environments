@@ -19,6 +19,7 @@
 * [setting ตัวช่วย format](setting-format.md)
 * [setting เก่า](setting.md)
 * [แก้ปัญหาการ render สี srgb ของ vscode](render-srgb-vscode.md)
+* [Config เพิ่มเติม ของ tailwind intellisense](config-tailwind-intellisense.md)
 
 ## PHP
 

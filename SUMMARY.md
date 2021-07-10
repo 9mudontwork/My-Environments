@@ -9,6 +9,7 @@
 * [Setup For Development](windows/setup-for-development.md)
 * [Setup Terminal](windows/setting-terminal/README.md)
   * [Hyper](windows/setting-terminal/hyper.md)
+  * [Putty](windows/setting-terminal/putty.md)
 
 ## Visual Studio Code
 
